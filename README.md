@@ -1,7 +1,7 @@
 # Project-G
 Video Game Project (WIP)
 
-**Project G** is currently an in-progress video game project. This repository mostly has unfinished files and prototypes
+**Project G** is currently an in-progress video game project. This repository mostly has unfinished files and prototypes.
 
 ---
 
@@ -20,6 +20,7 @@ Currently this project is in the design phase. This project hopes to create a fu
 Current progress:
 
 - Created basic folder structure
+- Implemented a Player scene with handling of animation
 
 ---
 
@@ -40,7 +41,7 @@ Current progress:
 ## Planned Features
 
 - Tilemap of starting area
-- Fully implemented player with sprite
+- Finish player scene with moving and polished animation
 - Audio
 
 ---
